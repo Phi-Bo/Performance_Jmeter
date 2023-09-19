@@ -1,0 +1,21 @@
+Response Code : 200
+Response Body : {"bookingid":3427,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
+Response Code : 200
+Response Body : {"bookingid":3650,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
+Response Code : 200
+Response Body : {"bookingid":5727,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
+Response Code : 200
+Response Body : {"bookingid":24,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
+Response Code : 200
+Response Body : {"bookingid":2855,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
+Response Code : 200
+Response Body : {"bookingid":3132,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
+Response Code : 200
+Response Body : {"bookingid":3409,"booking":{"firstname":"jay","lastname":"Bo","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2023-10-01","checkout":"2023-10-04"},"additionalneeds":"Breakfast"}}
+
